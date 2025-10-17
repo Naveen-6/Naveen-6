@@ -1,11 +1,39 @@
-### Hi there 👋
+# Hi there 👋, I'm Naveen Sai
+
+Full-Stack Software Engineer with 3.5 years of experience in microservices and event-driven systems across banking, mobility, and enterprise platforms. Skilled in both **Java (Spring Boot, REST APIs, Kafka)** and **MERN stack (MongoDB, Express.js, React.js, Node.js)** development. Hands-on with **secure API development, CI/CD pipelines, Docker, Kubernetes**, and cloud platforms like **AWS**. Experienced in **AI/ML integrations** including OpenAI APIs and predictive analytics.
+
+---
+
+## 🛠 Tech Stack & Skills
+
+### Backend
+- **Java:** Spring Boot, REST APIs, Kafka, Spring Security, JWT
+- **Node.js:** Express.js, REST APIs, JWT
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Microservices & Event-driven systems**  
+
+### Frontend
+- **React.js**, **Vite**, **Tailwind CSS**, portals & dashboards
+
+### DevOps & Cloud
+- **CI/CD:** Jenkins, Azure DevOps, GitHub Actions
+- **Containers:** Docker, Kubernetes
+- **Cloud Platforms:** AWS S3, Lambda, EC2
+
+### AI / ML Integrations
+- OpenAI APIs, Google Gemini, ETA models, Predictive Analytics
+
+---
+
+## 🚀 Featured Projects
+
+- **[AI Image Generator](https://ai-image-generation-frontend-rho.vercel.app/)** — Full-stack MERN & AI app to generate and share images with OpenAI’s DALL·E.  
+  [GitHub Repo](https://github.com/Naveen-6/AI_ImageGeneration)
 
 
-**Naveen-6/Naveen-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...life
-- 👯 I’m looking to collaborate on ...many projects
+## 📫 Connect with Me
 
-- 📫 How to reach me: ...naveensai.alapati6@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sai-webdev19/ 
+- Email: sainaveen1901@gmail.com
