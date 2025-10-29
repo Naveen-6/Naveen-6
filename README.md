@@ -27,7 +27,10 @@ Full-Stack Software Engineer with 3.5 years of experience in microservices and e
 
 ## 🚀 Featured Projects
 
-- **[AI Image Generator](https://ai-image-generation-frontend-rho.vercel.app/)** — Full-stack MERN & AI app to generate and share images with OpenAI’s DALL·E.  
+ **[AI Mock Interview Platform](https://ai-interview-platform-b28u.vercel.app/sign-in)** — Full-stack Next.js, Firebase & AI app for mock interviews powered by Google Gemini LLM.  
+  [GitHub Repo](https://github.com/Naveen-6/AI_Interview_Platform)
+
+ **[AI Image Generator](https://ai-image-generation-frontend-rho.vercel.app/)** — Full-stack MERN & AI app to generate and share images with OpenAI’s DALL·E.  
   [GitHub Repo](https://github.com/Naveen-6/AI_ImageGeneration)
 
 
