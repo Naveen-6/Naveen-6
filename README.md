@@ -14,6 +14,7 @@ Full-Stack Software Engineer with 3.5 years of experience in microservices and e
 
 ### Frontend
 - **React.js**, **Vite**, **Tailwind CSS**, portals & dashboards
+- React.js, TypeScript, JavaScript, Vite, Tailwind CSS, portals & dashboards, Redux, Context API, REST APIs, responsive UI/UX, component optimization
 
 ### DevOps & Cloud
 - **CI/CD:** Jenkins, Azure DevOps, GitHub Actions
