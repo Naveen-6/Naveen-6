@@ -38,6 +38,7 @@ Full-Stack Software Engineer with 3.5 years of experience in microservices and e
   [GitHub Repo](https://github.com/Naveen-6/AI_ImageGeneration)
 
 
+🌐 Portfolio: [Visit my portfolio](https://my-portfolio1901.vercel.app/)
 
 
 ## 📫 Connect with Me
