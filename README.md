@@ -1,12 +1,13 @@
 # Hi there 👋, I'm Naveen Sai
 
-Full-Stack Software Engineer with around 4 years of experience in microservices and event-driven systems across banking, mobility, and enterprise platforms. Skilled in both **Java (Spring Boot, REST APIs, Kafka)** and **MERN stack (MongoDB, Express.js, React.js, Node.js)** development. Hands-on with **secure API development, CI/CD pipelines, Docker, Kubernetes**, and cloud platforms like **AWS**. Experienced in **AI/ML integrations** including OpenAI APIs and predictive analytics.
+Full-Stack Software Engineer with 5 years of experience in microservices and event-driven systems across banking, mobility, and enterprise platforms. Skilled in **Python, Java (Spring Boot, REST APIs, Kafka)** and **MERN stack (MongoDB, Express.js, React.js, Node.js)** development. Hands-on with **secure API development, CI/CD pipelines, Docker, Kubernetes**, and cloud platforms like **AWS**. Experienced in **AI/ML integrations** including OpenAI APIs and predictive analytics.
 
 ---
 
 ## 🛠 Tech Stack & Skills
 
 ### Backend
+- **Python:** FastAPI, Flask, Django, REST APIs, Kafka
 - **Java:** Spring Boot, REST APIs, Kafka, Spring Security, JWT
 - **Node.js:** Express.js, REST APIs, JWT
 - **Databases:** MongoDB, MySQL, PostgreSQL
