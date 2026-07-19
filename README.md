@@ -1,10 +1,9 @@
 # Hi there 👋, I'm Naveen Sai
 
-Full-Stack Software Engineer with 5 years of experience building **scalable microservices and event-driven distributed systems** across banking, mobility, and enterprise platforms. Skilled in **Python, Scala, C#/.NET, Java (Spring Boot), Node.js, SQL, React.js/TypeScript, REST APIs, and Kafka**, with a strong focus on **performance optimization, reliability, and fault-tolerant system design**.
+Full-Stack Software Engineer with experience designing and building scalable microservices and event-driven distributed systems across banking, mobility, and enterprise platforms. Proficient in Python, Node.js, SQL, React.js, TypeScript, REST APIs, and Apache Kafka. Passionate about developing high-performance, reliable, and fault-tolerant systems, with a strong focus on scalability, performance optimization, and resilient architecture.
 
 Hands-on experience with **high-throughput, low-latency systems**, database optimization (PostgreSQL, MongoDB), and **real-world workload handling**. Proficient in **CI/CD pipelines, Docker, Kubernetes**, and cloud platforms like **AWS**, with a focus on **scalable and production-grade deployments**.
 
-Experienced in **system monitoring, load testing, and benchmarking**, along with AI/ML integrations including OpenAI APIs and predictive analytics.
 
 ---
 
@@ -19,8 +18,6 @@ Experienced in **system monitoring, load testing, and benchmarking**, along with
 
 ### Backend
 - **Python:** FastAPI, Flask, Django, REST APIs, Kafka
-- **C# / .NET:** .NET Core, ASP.NET Core, Web APIs, REST APIs
-- **Java:** Spring Boot, REST APIs, Kafka, Spring Security, JWT
 - **Node.js:** Express.js, REST APIs, JWT
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Microservices & Event-driven systems**  
